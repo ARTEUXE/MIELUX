@@ -1,0 +1,33 @@
+.nav-link {
+  color: #8B5A00;
+  font-size: 20px;
+}
+
+.navbar-text {
+  color: #8B5A00;
+  font-size: 25px;
+}
+
+.nav-link:focus, .nav-link:hover {
+  color: #C19A6B;
+}
+
+.navbar-text:focus, .navbar-text:hover {
+  color: #C19A6B;
+}
+
+.dropdown-menu {
+  z-index: 2;
+  background-color: #ffa500;
+    color: #8B5A00;
+
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: #8B4513;
+  background-color: #FFC107;
+}
+
+#navbar-toggler-icon {
+  color: #8B4513;
+}

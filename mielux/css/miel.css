@@ -1,0 +1,69 @@
+
+.card {
+    width: 290px;
+    height:600px ;
+    background: #F8E08E  ;
+    padding: .4em;
+    border-color: #8B4513;
+    overflow: hidden;
+    border-radius: 6px;
+    margin: 20 10px 10px 10px; /* ajoute une marge de 10px en bas */
+    filter: drop-shadow(0 0 20px #333);
+
+  }
+  .row {
+    margin-left: 10px;
+    padding-top: 100px;
+  }
+
+.card-image {
+  background-color: #FFF;
+  width: 100%;
+  height:100%;
+  overflow: hidden;
+  border-radius: 6px 6px 6px 6px;
+}
+.pad {
+  padding-top: 0%;
+}
+.card-image:hover {
+  transform: scale(0.98);
+}
+
+.nomMiel {
+  text-transform: uppercase;
+  font-size: 1.2em;
+  font-weight: 600;
+  color:#8B4513;
+  padding: 10px 7px 0;
+}
+
+.nomMiel:hover {
+  cursor: pointer;
+  font-weight: bold;
+
+}
+
+.Contenu {
+  font-weight: 600;
+  color: #8B4513;
+  padding: 7px;
+  max-width:50ch;
+}
+
+.Contenu:hover {
+  cursor: pointer;
+}
+
+.prix {
+  width:auto;
+  height:auto;
+  background-color:#FFA500;
+  color:#8B4513;
+  margin:auto;
+  font-size:2rem;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+

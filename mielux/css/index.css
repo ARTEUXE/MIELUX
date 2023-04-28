@@ -1,0 +1,14 @@
+html{
+    margin: top 0px;;
+}
+
+body{
+    background-image: url('/image/back2.png');
+
+}
+.navbar{
+    background-color: #FFA500;
+}
+.pad {
+    padding-top: 0%;
+  }
