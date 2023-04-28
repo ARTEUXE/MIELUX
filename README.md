@@ -1,5 +1,7 @@
 <h1 align="center">MIELUX</h1>
-# Contexte
+
+## Contexte
+
 L'école Gustave Eiffel est fière d'annoncer le lancement de son projet de vente de miel bio, produit localement par notre apiculteur local, par le biais de ses élèves auprès de leur voisinage. Ce projet vise à enseigner aux élèves des compétences importantes telles que la communication, la gestion financière et le travail d'équipe, en les impliquant dans toutes les étapes de la vente, de la promotion à la gestion des stocks, en passant par la prise de commandes et la livraison.
 
 Un site dédié est disponible pour obtenir plus d'informations sur ce projet.
